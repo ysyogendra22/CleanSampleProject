@@ -6,6 +6,11 @@ A modern Android application demonstrating Clean Architecture principles with MV
 
 This sample project showcases best practices in Android development by implementing a user management application. It fetches user data from a REST API and displays it in a clean, intuitive interface with support for viewing detailed user information.
 
+## Screenshot
+<img width="270" height="600" alt="screen_1" src="https://github.com/user-attachments/assets/71e645f6-52c8-428f-839e-462108652c44" />
+<img width="270" height="600" alt="screen_2" src="https://github.com/user-attachments/assets/f21c7a4e-dbb4-4bd1-91a9-b6cd60ced011" />
+
+
 ## Architecture
 
 The project follows **Clean Architecture** principles with three distinct layers:
